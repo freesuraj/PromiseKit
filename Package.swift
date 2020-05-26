@@ -10,7 +10,6 @@ pkg.products = [
 let pmk: Target = .target(name: "PromiseKit")
 pmk.path = "Sources"
 pmk.exclude = [
-    "AnyPromise.swift",
     "AnyPromise.m",
     "PMKCallVariadicBlock.m",
     "dispatch_promise.m",
