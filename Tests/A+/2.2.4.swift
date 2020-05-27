@@ -1,4 +1,4 @@
-import PromiseKit
+import SPromiseKit
 import XCTest
 
 class Test224: XCTestCase {

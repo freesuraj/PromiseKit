@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = "PromiseKit"
+  s.name = "SPromiseKit"
 
   s.version = '0.0.1'
 

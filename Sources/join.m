@@ -3,7 +3,7 @@
 #import <libkern/OSAtomic.h>
 @import Foundation.NSError;
 @import Foundation.NSNull;
-#import "PromiseKit.h"
+#import "SPromiseKit.h"
 #import <stdatomic.h>
 
 /**

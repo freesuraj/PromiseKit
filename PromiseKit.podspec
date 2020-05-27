@@ -1,6 +1,5 @@
 Pod::Spec.new do |s|
-    s.name = 'PromiseKit'
-    s.module_name = 'SPromiseKit'
+    s.name = 'SPromiseKit'
     s.version = '6.13.2'
     s.license = 'MIT'
     s.summary = 'A thoughtful and complete implementation of promises for iOS, macOS, watchOS and tvOS with first-class support for both Objective-C and Swift.'
@@ -37,13 +36,13 @@ Pod::Spec.new do |s|
         "Sources/{after,AnyPromise,GlobalState,dispatch_promise,hang,join,PMKPromise,when,race}.m",
         "Sources/fwd.h",
         "Sources/AnyPromise.h",
-        "Sources/PromiseKit.h"
+        "Sources/SPromiseKit.h"
       ]
 
       s.public_header_files = [
         "Sources/fwd.h",
         "Sources/AnyPromise.h",
-        "Sources/PromiseKit.h"
+        "Sources/SPromiseKit.h"
       ]
 
       s.preserve_paths = [

@@ -1,5 +1,5 @@
 @import Foundation;
-@import PromiseKit;
+@import SPromiseKit;
 #import "Infrastructure.h"
 
 AnyPromise *PMKDummyAnyPromise_YES() {

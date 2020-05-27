@@ -1,7 +1,7 @@
-#if __has_include("PromiseKit-Swift.h")
-    #import "PromiseKit-Swift.h"
+#if __has_include("SPromiseKit-Swift.h")
+    #import "SPromiseKit-Swift.h"
 #else
-    #import <PromiseKit/PromiseKit-Swift.h>
+    #import <SPromiseKit/SPromiseKit-Swift.h>
 #endif
 #import "PMKCallVariadicBlock.m"
 #import "AnyPromise+Private.h"

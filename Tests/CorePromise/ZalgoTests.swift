@@ -1,5 +1,5 @@
 import XCTest
-import PromiseKit
+import SPromiseKit
 
 class ZalgoTests: XCTestCase {
     func test1() {

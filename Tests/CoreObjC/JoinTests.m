@@ -1,5 +1,5 @@
 @import Foundation;
-@import PromiseKit;
+@import SPromiseKit;
 @import XCTest;
 
 

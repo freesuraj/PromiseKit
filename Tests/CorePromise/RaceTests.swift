@@ -1,5 +1,5 @@
 import XCTest
-import PromiseKit
+import SPromiseKit
 
 class RaceTests: XCTestCase {
     func test1() {
